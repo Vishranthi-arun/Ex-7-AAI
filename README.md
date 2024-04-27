@@ -76,7 +76,8 @@ search engines and business intelligence.
 
 <H3>Output</H3>
 
-![a](1.png)
+![image](https://github.com/Vishranthi-arun/Ex-7-AAI/assets/93427278/873cdeb1-e15c-4c3f-8558-e01c49d52f4e)
+
 
 <H3>Result:</H3>
 Thus ,the program to perform the Text summarization is executed sucessfully.
